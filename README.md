@@ -211,9 +211,5 @@ http://localhost/Bank-Management-System/
 Or visit the live version:
 👉 https://salman.rfnhsc.com/bank
 
-👨‍💻 Developer Info
 
-Developer: Sayed Mahbub Salman
-Project Type: Educational / Financial Web System
-Tech Stack: PHP, MySQL, HTML, CSS, JS, GSAP, Three.js, SASS
-Live Demo: https://salman.rfnhsc.com/bank
+
